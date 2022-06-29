@@ -1,0 +1,7 @@
+gene	class
+vst_siCtrl_1st	Ctl
+vst_siCtrl_2nd	Ctl
+vst_siCtrl_3rd	Ctl
+vst_siKRT18_1st	kdKRT
+vst_siKRT18_2nd	kdKRT
+vst_siKRT18_3rd	kdKRT
